@@ -1,0 +1,23 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7ecd1; /* light yellow background */
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #87bdd8; /* light blue header background */
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+iframe {
+  width: 100%;
+  height: 400px;
+}
