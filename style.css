@@ -1,14 +1,20 @@
+
+
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
   margin: 0;
   padding: 0;
-  background-color: #f7ecd1; /* light yellow background */
+  background-color: #f0c864; /* light yellow background */
 }
 
 header {
   text-align: center;
   padding: 20px;
-  background-color: #87bdd8; /* light blue header background */
+  background-color: #42b5ee; /* light blue header background */
+  box-shadow: rgba(0,0,0,0.5) 0 5px 7px;
 }
 
 main {
@@ -19,5 +25,5 @@ main {
 
 iframe {
   width: 100%;
-  height: 400px;
+  height: 600px;
 }
